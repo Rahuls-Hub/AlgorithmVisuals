@@ -1,6 +1,6 @@
 # Visualize the Sorting Algos
 
-https://algovisualizer-76b0f.web.app
+https://graphi-algo-frame.netlify.app/
 
 # Getting Started with Create React App
 
